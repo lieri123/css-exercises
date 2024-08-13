@@ -52,5 +52,12 @@ ul {
 
   display: flex;
   justify-content: space-between;
-  gap: 16px;
+  padding: 8px;
+  
+}
+ul{
+  display: flex;
+  margin: 0px;
+  padding: 0px;
+  align-items: center;
 }
