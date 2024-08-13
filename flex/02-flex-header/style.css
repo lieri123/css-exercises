@@ -33,4 +33,5 @@ a {
 
 ul {
   display: flex;
+  padding: 8px;
 }
