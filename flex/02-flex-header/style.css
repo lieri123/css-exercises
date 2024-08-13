@@ -31,3 +31,6 @@ a {
   padding: 8px;
 }
 
+ul {
+  display: flex;
+}
