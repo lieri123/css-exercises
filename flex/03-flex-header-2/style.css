@@ -60,4 +60,11 @@ ul{
   margin: 0px;
   padding: 0px;
   align-items: center;
+  gap: 16px;
+}
+
+.left, .right{
+  display: flex;
+  gap: 16px;
+  justify-content: center;
 }
