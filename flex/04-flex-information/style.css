@@ -38,3 +38,7 @@ body{
   gap: 52px;
   justify-content: center;
 }
+
+.info{
+  max-width: 200px;
+}
