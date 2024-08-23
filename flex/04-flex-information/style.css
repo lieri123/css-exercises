@@ -28,3 +28,7 @@ img {
 body{
   text-align: center;
 }
+
+.title{
+  padding: 32px;
+}
